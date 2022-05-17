@@ -492,7 +492,7 @@ nav{
     }
      .fa{
         font-size: 35px;
-        color:rgb(232, 230, 236) ;
+        color:rgb(105, 81, 150) ;
     }
     .fa-laptop{
         color: white;
@@ -506,5 +506,6 @@ nav{
         float: left;
         list-style: none;
         padding-left: 30px;
+        text-align: center;
     }
 }
